@@ -7,6 +7,7 @@ import org.springframework.stereotype.Repository;
 
 import tn.esprit.spring.entities.User;
 //hello world from git
+//hello world fom user-management branch
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
 
